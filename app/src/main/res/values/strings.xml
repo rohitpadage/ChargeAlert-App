@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Charge Alert</string>
+    <string name="nav1">Navigation open</string>
+    <string name="nav2">Navigation close</string>
+</resources>
